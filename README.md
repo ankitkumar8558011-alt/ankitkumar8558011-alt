@@ -2,25 +2,26 @@
 # 👋 Hi, I'm Ankit Kumar 
 
 💻 Passionate about Web Development, AI/ML & Open Source  
-🚀 Exploring Generative AI, FastAPI, NLP and Full-stack projects  
-📚 Always learning & building impactful solutions
-## 🛠 Tech Stack
+ Exploring Generative AI, FastAPI, NLP and Full-stack projects  
+Always learning & building impactful solutions
 
-### 💻 Programming Languages
+##  Tech Stack
+
+### Programming Languages
 ![Python](https://img.shields.io/badge/Python-3.9-blue)
 ![C](https://img.shields.io/badge/C-Language-grey)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![HTML](https://img.shields.io/badge/HTML5-orange)
 ![CSS](https://img.shields.io/badge/CSS3-blue)
 
-### ⚙️ Frameworks & Libraries
+### Frameworks & Libraries
 ![FastAPI](https://img.shields.io/badge/FastAPI-green)
 ![React](https://img.shields.io/badge/React-blue)
 ![Node.js](https://img.shields.io/badge/Node.js-green)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
 ![Keras](https://img.shields.io/badge/Keras-red)
 
-### 🤖 AI / ML
+### AI / ML
 ![LLMs](https://img.shields.io/badge/LLMs-GenAI-purple)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
 ![Transformers](https://img.shields.io/badge/Transformers-red)
@@ -38,7 +39,7 @@
 🔹 Flight Data Analysis (Python Project)
 → Analyzed flight datasets to extract insights and visualize trends
 
-### 🧰 Tools & Platforms
+### Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-blue)
 ![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green)
@@ -47,12 +48,12 @@
 ![Git](https://img.shields.io/badge/Git-Version_Control-orange)
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
-## 📊 GitHub Stats
+## GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true&theme=radical)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar8558011-alt&theme=react-dark)
 
-## 📫 Connect With Me
+## Connect With Me
 
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-150ab12a6?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
 [GitHub](https://github.com/ankitkumar8558011-alt)
