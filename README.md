@@ -38,6 +38,9 @@ Always learning & building impactful solutions
 🔹 Flight Data Analysis (Python Project)
 → Analyzed flight datasets to extract insights and visualize trends
 
+🔹 Sales Forecasting (ML Project) 
+→ Developed a machine learning model to forecast future demand using historical sales data, with time-series analysis and visualizations to support business decision-making
+
 ### Tools & Platforms
 
 ![VS Code](https://img.shields.io/badge/VS_Code-IDE-blue)
