@@ -28,10 +28,13 @@
 
 
 📌 Featured Projects
+
 🔹 Emotion Detection from Text using NLP & ML
 → Built a model to detect emotions from text using Natural Language Processing
+
 🔹 Car Price Prediction Web App
 → Developed a web application that predicts car prices using ML algorithms
+
 🔹 Flight Data Analysis (Python Project)
 → Analyzed flight datasets to extract insights and visualize trends
 
