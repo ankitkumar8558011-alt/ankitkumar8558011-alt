@@ -27,8 +27,7 @@ Always learning & building impactful solutions
 ![Transformers](https://img.shields.io/badge/Transformers-red)
 ![LangChain](https://img.shields.io/badge/LangChain-blue)
 
-
-📌 Featured Projects
+### Featured Projects
 
 🔹 Emotion Detection from Text using NLP & ML
 → Built a model to detect emotions from text using Natural Language Processing
