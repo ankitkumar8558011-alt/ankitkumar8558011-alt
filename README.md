@@ -39,7 +39,7 @@ Always learning & building impactful solutions
 → Analyzed flight datasets to extract insights and visualize trends
 
 🔹 Sales Forecasting (ML Project) 
-→ Developed a machine learning model to forecast future demand using historical sales data, with time-series analysis and visualizations to support business decision-making
+→ Built a model to predict future sales using Python and visualized trends and seasonality for business insights
 
 ### Tools & Platforms
 
