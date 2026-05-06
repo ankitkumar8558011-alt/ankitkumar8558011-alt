@@ -51,7 +51,7 @@ Always learning & building impactful solutions
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true&theme=github_dark)
+![GitHub Streak](https://streak-stats.demolab.com?user=ankitkumar8558011-alt&theme=github-dark-blue)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar8558011-alt&theme=react-dark)
 
 ## Connect With Me
