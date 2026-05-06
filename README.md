@@ -51,11 +51,7 @@ Always learning & building impactful solutions
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
 ## GitHub Stats
-![GitHub Stats](```md id="h7l2rp"
-<img src="https://github-readme-stats.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true&theme=github_dark" />
-```
-)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true&theme=github_dark)
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar8558011-alt&theme=react-dark)
 
 ## Connect With Me
