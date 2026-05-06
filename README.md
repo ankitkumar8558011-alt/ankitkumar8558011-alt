@@ -51,11 +51,10 @@ Always learning & building impactful solutions
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar8558011-alt&layout=compact&theme=github_dark)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true" />
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar8558011-alt&theme=github-dark)
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ankitkumar8558011-alt&layout=compact" />
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ankitkumar8558011-alt&theme=github-dark-blue)
 
