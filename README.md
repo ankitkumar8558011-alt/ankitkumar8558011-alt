@@ -51,11 +51,14 @@ Always learning & building impactful solutions
 ![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
 ## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true&theme=radical)
+![GitHub Stats](```md id="h7l2rp"
+<img src="https://github-readme-stats.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true&theme=github_dark" />
+```
+)
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar8558011-alt&theme=react-dark)
 
 ## Connect With Me
 
 [LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-150ab12a6?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-[GitHub](https://github.com/ankitkumar8558011-alt) ----- the github stats is not working 
+[GitHub](https://github.com/ankitkumar8558011-alt)
