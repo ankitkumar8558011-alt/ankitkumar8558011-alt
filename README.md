@@ -1,55 +1,61 @@
-```md id="3o7g1s"
-# Hi, I'm Ankit Kumar
+## Hi there 👋
+# Hi, I'm Ankit Kumar 
 
-Passionate about Web Development, AI/ML, and Open Source.
+💻 Passionate about Web Development, AI/ML & Open Source  
+ Exploring Generative AI, FastAPI, NLP and Full-stack projects  
+Always learning & building impactful solutions
 
-Currently exploring Generative AI, FastAPI, NLP, and Full-Stack Development.
+##  Tech Stack
 
----
-
-## Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+### Programming Languages the  
+![Python](https://img.shields.io/badge/Python-3.9-blue)
+![C](https://img.shields.io/badge/C-Language-grey)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow)
+![HTML](https://img.shields.io/badge/HTML5-orange)
+![CSS](https://img.shields.io/badge/CSS3-blue)
 
 ### Frameworks & Libraries
+![FastAPI](https://img.shields.io/badge/FastAPI-green)
+![React](https://img.shields.io/badge/React-blue)
+![Node.js](https://img.shields.io/badge/Node.js-green)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
+![Keras](https://img.shields.io/badge/Keras-red)
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+### AI / ML
+![LLMs](https://img.shields.io/badge/LLMs-GenAI-purple)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
+![Transformers](https://img.shields.io/badge/Transformers-red)
+![LangChain](https://img.shields.io/badge/LangChain-blue)
 
----
+### Featured Projects
 
-## Projects
+🔹 Emotion Detection from Text using NLP & ML
+→ Built a model to detect emotions from text using Natural Language Processing
 
-- Emotion Detection from Text using NLP & ML
-- Car Price Prediction Web App
-- Flight Data Analysis
-- Sales Forecasting Project
+🔹 Car Price Prediction Web App
+→ Developed a web application that predicts car prices using ML algorithms
 
----
+🔹 Flight Data Analysis (Python Project)
+→ Analyzed flight datasets to extract insights and visualize trends
+
+🔹 Sales Forecasting (ML Project) 
+→ Built a model to predict future sales using Python and visualized trends and seasonality for business insights
+
+### Tools & Platforms
+
+![VS Code](https://img.shields.io/badge/VS_Code-IDE-blue)
+![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Google Colab](https://img.shields.io/badge/Google_Colab-ML-yellow)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
 ## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true&theme=radical)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ankitkumar8558011-alt&show_icons=true&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ankitkumar8558011-alt&layout=compact&theme=github_dark" />
-</p>
-
----
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar8558011-alt&theme=react-dark)
 
 ## Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/ankit-kumar-150ab12a6/)
-
-[GitHub](https://github.com/ankitkumar8558011-alt)
-```
+[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-150ab12a6?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
+[GitHub](https://github.com/ankitkumar8558011-alt) ----- the github stats is not working 
