@@ -33,17 +33,39 @@ Always learning & building impactful solutions
 
 ### Featured Projects
 
-🔹 Emotion Detection from Text using NLP & ML
-→ Built a model to detect emotions from text using Natural Language Processing
+🚀 GitHub Repositories
+
+🔹 Customer Churn Prediction
+
+Customer churn prediction & risk segmentation dashboard using Machine Learning on the IBM Telco dataset.
+
+🔹 FUTURE_ML_01
+
+Developed a sales forecasting model using Python and retail data with preprocessing, feature engineering, and trend analysis.
+
+🔹 FUTURE_ML_02
+
+Machine Learning practice and experimentation repository containing predictive analytics workflows and ML implementations.
+
+🔹 Amazon Review Sentiment Analysis
+
+Performed sentiment analysis on Amazon product reviews using NLP techniques and machine learning models.
+
+🔹 Flight Data Analysis with Python
+
+Analyzed 3,00,000+ flight records using Python, Pandas, Matplotlib, and Seaborn to extract insights and visualize trends.
+
+🔹 Movies Recommendation System
+
+Built a movie recommendation system using TF-IDF and FastAPI integrated with TMDb API for personalized recommendations.
 
 🔹 Car Price Prediction Web App
-→ Developed a web application that predicts car prices using ML algorithms
 
-🔹 Flight Data Analysis (Python Project)
-→ Analyzed flight datasets to extract insights and visualize trends
+Developed a machine learning web application that predicts used car prices based on features like mileage, fuel type, and year.
 
-🔹 Sales Forecasting (ML Project) 
-→ Built a model to predict future sales using Python and visualized trends and seasonality for business insights
+🔹 Emotion Detection from Text using NLP & ML
+
+Built an NLP-based machine learning model to classify emotions from text with preprocessing and feature engineering.
 
 ### Tools & Platforms
 
