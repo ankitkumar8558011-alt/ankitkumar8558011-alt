@@ -31,9 +31,16 @@ Always learning & building impactful solutions
 ![Transformers](https://img.shields.io/badge/Transformers-red)
 ![LangChain](https://img.shields.io/badge/LangChain-blue)
 
-### Featured Projects
+### Tools & Platforms
 
-🚀 GitHub Repositories
+![VS Code](https://img.shields.io/badge/VS_Code-IDE-blue)
+![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![Google Colab](https://img.shields.io/badge/Google_Colab-ML-yellow)
+![Git](https://img.shields.io/badge/Git-Version_Control-orange)
+![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
+
+### Featured Projects
 
 🔹 Customer Churn Prediction
 
@@ -67,14 +74,7 @@ Developed a machine learning web application that predicts used car prices based
 
 Built an NLP-based machine learning model to classify emotions from text with preprocessing and feature engineering.
 
-### Tools & Platforms
 
-![VS Code](https://img.shields.io/badge/VS_Code-IDE-blue)
-![PyCharm](https://img.shields.io/badge/PyCharm-IDE-green)
-![Jupyter Notebook](https://img.shields.io/badge/Jupyter-Notebook-orange)
-![Google Colab](https://img.shields.io/badge/Google_Colab-ML-yellow)
-![Git](https://img.shields.io/badge/Git-Version_Control-orange)
-![GitHub](https://img.shields.io/badge/GitHub-Repository-black)
 
 ## GitHub Stats
 
