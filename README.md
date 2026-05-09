@@ -70,17 +70,11 @@ Always learning & building impactful solutions
 <p align="left">
   <a href="https://github.com/ankitkumar8558011-alt" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a>
-
-  <a href="https://www.linkedin.com/in/ankit-kumar-150ab12a6/" target="_blank">
+  </a> <a href="https://www.linkedin.com/in/ankit-kumar-150ab12a6/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a>
-
-  <a href="https://instagram.com/_ankit.ku_" target="_blank">
+  </a> <a href="https://instagram.com/_ankit.ku_" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-  </a>
-
-  <a href="mailto:ak8558011@gmail.com">
+  </a><a href="mailto:ak8558011@gmail.com">
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
   </a>
 </p>
