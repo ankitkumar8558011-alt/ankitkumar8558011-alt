@@ -21,6 +21,10 @@ Always learning & building impactful solutions
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange)
 ![Keras](https://img.shields.io/badge/Keras-red)
 
+### BI & Visualization
+![Power BI](https://img.shields.io/badge/Power_BI-Data_Analytics-yellow?logo=powerbi)
+![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)
+
 ### AI / ML
 ![LLMs](https://img.shields.io/badge/LLMs-GenAI-purple)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow)
