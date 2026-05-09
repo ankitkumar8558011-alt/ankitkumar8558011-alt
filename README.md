@@ -60,22 +60,14 @@ Always learning & building impactful solutions
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ankitkumar8558011-alt&theme=react-dark)
 
-## Connect With Me
+## 🌐 Socials:
 
-[LinkedIn](https://linkedin.com/in/https://www.linkedin.com/in/ankit-kumar-150ab12a6?utm_source=share_via&utm_content=profile&utm_medium=member_android)  
-[GitHub](https://github.com/ankitkumar8558011-alt)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_ankit.kr_)
 
-## Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-kumar-150ab12a6/)
 
-<p align="left">
-  <a href="https://github.com/ankitkumar8558011-alt" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
-  </a> <a href="https://www.linkedin.com/in/ankit-kumar-150ab12a6/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
-  </a> <a href="https://instagram.com/_ankit.ku_" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="Instagram" width="40" height="40"/>
-  </a><a href="mailto:ak8558011@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="40" height="40"/>
-  </a>
-</p>
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitkumar8558011-alt)
+
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ak8558011@gmail.com)
+
 
