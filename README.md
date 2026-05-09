@@ -1,27 +1,6 @@
 ## Hi there 👋
 # Hi, I'm Ankit Kumar 
 
-## 🌐 Connect With Me
-
-<p align="left">
-  <a href="https://instagram.com/your_username" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="60" />
-  </a>
-
-  <a href="https://www.linkedin.com/in/ankit-kumar-150ab12a6/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="60" />
-  </a>
-
-  <a href="https://github.com/ankitkumar8558011-alt" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="60" />
-  </a>
-
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="60" />
-  </a>
-</p>
-
-
 💻 Passionate about Web Development, AI/ML & Open Source  
  Exploring Generative AI, FastAPI, NLP and Full-stack projects  
 Always learning & building impactful solutions
