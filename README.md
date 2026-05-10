@@ -5,27 +5,6 @@
  Exploring Generative AI, FastAPI, NLP and Full-stack projects  
 Always learning & building impactful solutions
 
-# 🌐 Socials:
-
-<p align="left">
-<a href="https://instagram.com/yourusername">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com/in/yourusername">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://reddit.com/u/yourusername">
-  <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
-</a>
-
-<a href="mailto:youremail@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-</p>
-
----
 
 # 💻 Tech Stack:
 
