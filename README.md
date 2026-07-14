@@ -24,6 +24,9 @@ Always learning & building impactful solutions
 ### BI & Visualization
 ![Power BI](https://img.shields.io/badge/Power_BI-Data_Analytics-yellow?logo=powerbi)
 ![Tableau](https://img.shields.io/badge/Tableau-Visualization-blue?logo=tableau)
+![MongoDB](https://img.shields.io/badge/MongoDB-NoSQL_Database-green?logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Relational_Database-blue?logo=postgresql)
+![MySQL](https://img.shields.io/badge/MySQL-Database-orange?logo=mysql)
 
 ### AI / ML
 ![LLMs](https://img.shields.io/badge/LLMs-GenAI-purple)
